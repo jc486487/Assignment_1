@@ -1,7 +1,7 @@
 # Assignment_1
 A1 by Sherin Sarah Varghese
 
-This program track the song file- songs.csv, the user wishes to learn and songs they have learned.
+This program tracks the song file- songs.csv, the user wishes to learn and songs they have learned.
 It also allows the user to add songs to the file indicating the title, artist, year, whether it is required (y) or learned (n).
 
 Function to list the songs:
