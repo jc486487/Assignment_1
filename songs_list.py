@@ -1,8 +1,9 @@
 """Name: Sherin Sarah Varghese
 Date: 20 April 2018
-Brief program details: This program tracks song files the user wishes to learn and songs they have learned.
-                       It also allows the user to add songs to the file indicating the title, artist, year,
-                       whether it is required (y) or learned (n).
+Brief program details: This program tracks the song file- songs.csv,
+                        the user wishes to learn and songs they have learned.
+                        It also allows the user to add songs to the file indicating
+                        the title, artist, year, whether it is required (y) or learned (n).
 Link to the project on GitHub: https://github.com/jc486487/Assignment_1"""
 
 import csv
