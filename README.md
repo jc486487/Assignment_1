@@ -41,9 +41,6 @@ Function to add songs to the list:
     
  Main function:
  
- displaying the menu
- execution of the entire program
- displaying changes made and finally
- overwrites the songs.csv file with changes
+ displaying the menu, execution of the entire program, displaying changes made and finally, overwrites the songs.csv file with changes
  
  
